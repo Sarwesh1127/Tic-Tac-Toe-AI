@@ -2,7 +2,7 @@
 
 A simple Tic-Tac-Toe game with an unbeatable AI using Minimax with Alpha-Beta pruning.
 
-Run the CLI to play vs the AI.
+Run the run.py to play vs the AI.
 
 Quick start (PowerShell):
 
